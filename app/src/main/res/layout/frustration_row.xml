@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:background="@color/back_blue"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitleId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Titulo"
+        android:textColor="@android:color/background_light"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/background_light" />
+
+    <TextView
+        android:id="@+id/tvDescriptionId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Minha descrição aqui"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvWhatToDoId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="O que fazer"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp" />
+
+</LinearLayout>

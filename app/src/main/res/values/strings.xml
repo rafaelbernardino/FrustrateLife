@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FrustrateLife</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ERROR_DATA_LOAD">Error on load data</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="MSG_USR_PASS_FILL">User and Password fields should be fill</string>
+    <string name="keep_connected">Keep connected</string>
+    <string name="ERROR_TRY_AGAIN_LATER">Was not possible to log in, please try again later</string>
+    <string name="ERROR_LOGIN">Error on login</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="main">Main</string>
+    <string name="error_select_action">Error on select this action</string>
+    <string name="title">Title</string>
+    <string name="field_title_must_filled">Field Title must be filled</string>
+    <string name="field_desc_must_filled">Field Description must be filled</string>
+    <string name="field_wtd_must_filled">Field What to do must be filled</string>
+    <string name="error_create_frustration">Error on create a Frustration</string>
+    <string name="description">Description</string>
+    <string name="what_to_do">What to do</string>
+    <string name="create">Create</string>
+
+    <string-array name="action_array">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action">Action</string>
+    <string name="error_delete_data">Error on delete data</string>
+    <string name="data_deleted">Data deleted</string>
+    <string name="created_by_rafael_bernardino">Created by Rafael Bernardino</string>
+    <string name="version">Version 0.0.1</string>
+    <string name="user_pass_incorrect">User or Password are incorrect</string>
+    <string name="error_update_data">Error on update data</string>
+    <string name="data_updated">Registro alterado</string>
+    <string name="edit">Edit</string>
+    <string name="register_here_fl">Register here your Frustration Life</string>
+</resources>

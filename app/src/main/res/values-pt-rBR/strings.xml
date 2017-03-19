@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FrustrateLife</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ERROR_DATA_LOAD">Erro ao carregar dados</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="MSG_USR_PASS_FILL">Campos Usuário e Senha devem ser preenchidos</string>
+    <string name="keep_connected">Manter conectado</string>
+    <string name="ERROR_TRY_AGAIN_LATER">Não foi possível realizara o login, por favor, tente novamente mais tarde</string>
+    <string name="ERROR_LOGIN">Erro no login</string>
+    <string name="exit">Sair</string>
+    <string name="about">Sobre</string>
+    <string name="main">Principal</string>
+    <string name="error_select_action">Erro ao selecionar essa ação</string>
+    <string name="title">Título</string>
+    <string name="field_title_must_filled">Campo Título deve ser preenchido</string>
+    <string name="field_desc_must_filled">Campo Descrição deve ser preenchido</string>
+    <string name="field_wtd_must_filled">Campo O Que Fazer deve ser preenchido</string>
+    <string name="error_create_frustration">Erro ao criar Frustração</string>
+    <string name="description">Descrição</string>
+    <string name="what_to_do">O Que Fazer</string>
+    <string name="create">Criar</string>
+
+    <string-array name="action_array">
+        <item>Editar</item>
+        <item>Deletar</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action">Ação</string>
+    <string name="error_delete_data">Erro ao deletar registro</string>
+    <string name="data_deleted">Registro deletado</string>
+    <string name="version">Versão 0.0.1</string>
+    <string name="user_pass_incorrect">Usuário ou senha incorretos</string>
+    <string name="error_update_data">Erro ao atualizar registro</string>
+    <string name="data_updated">Registro alterado</string>
+    <string name="edit">Editar</string>
+    <string name="created_by_rafael_bernardino">Criado por Rafael Bernardino</string>
+    <string name="register_here_fl">Registre aqui suas frustrações da vida</string>
+</resources>
